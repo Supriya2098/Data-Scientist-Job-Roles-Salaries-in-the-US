@@ -210,10 +210,7 @@ GitHub README file
 
 Supriya Kusuma
 Business Analyst | Data Analyst | Power BI Developer <br>
-
 📧 Email: supriyakusuma0905@gmail.com <br>
-
 📞 Mobile: +91-9505265297 <br>
 🔗 LinkedIn: https://www.linkedin.com/in/supriya-kusuma09 <br>
-
 💻 GitHub: https://github.com/Supriya2098
